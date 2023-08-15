@@ -23,6 +23,7 @@ I am a fullstack Python Web developer.
 ## Databases:
 <p>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-563D7C?style=for-the-badge&logo=SQLite&logoColor=blue" />
 </p>
 
 ## Tools:
